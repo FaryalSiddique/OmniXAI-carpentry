@@ -4,7 +4,7 @@
     <br>
 <p>
 
-# OmniXAI: A Library for Explainable AI
+# OmniXAI: A Library for Explainable AI (Carpentry)
 <div align="center">
   <a href="#">
   <img src="https://img.shields.io/badge/Python-3.7, 3.8, 3.9, 3.10-blue">
